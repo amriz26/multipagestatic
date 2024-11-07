@@ -6,6 +6,11 @@
 /* apply ffont to entire page */
 body {
     font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 
 /* basic styling for nav bar w/ :hover effect */
